@@ -8,7 +8,7 @@ import VideoDetail from './components/video_details';
 
 import SearchBar from './components/search_bar';
 
-const API_KEY = 'AIzaSyCGEB8ENQekaqoXSmWmeBCgT4ee-UYHdlY';
+const API_KEY = 'KEY_TO_BE_OBTAINED';
 
 //new component that renders HTML
 class App extends Component {
